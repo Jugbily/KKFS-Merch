@@ -1,2 +1,2 @@
-# KKFSMerch
+# KKFSmerch
 Website for ording KKFS Merch.
